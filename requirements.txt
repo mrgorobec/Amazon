@@ -1,0 +1,13 @@
+pyyaml
+selenium
+urllib3
+webdriver-manager
+allure-pytest>=2.7.0
+tox
+requests
+pytest>=5.0.0
+pytest-rerunfailures
+faker
+pluggy
+bs4
+
