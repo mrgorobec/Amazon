@@ -7,6 +7,7 @@
 
 ```
 git clone git@github.com:nashiluduvsudu/Amazon.git
+cd Amazon
 ```
 
 Activate virtual environment using command:
